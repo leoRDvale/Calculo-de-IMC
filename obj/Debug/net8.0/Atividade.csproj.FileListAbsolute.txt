@@ -1,0 +1,28 @@
+/Users/leonardvale/Documents/Meus Documentos/Cursos - Exercicios/Atividade/obj/Debug/net8.0/Atividade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardvale/Documents/Meus Documentos/Cursos - Exercicios/Atividade/obj/Debug/net8.0/Atividade.AssemblyInfoInputs.cache
+/Users/leonardvale/Documents/Meus Documentos/Cursos - Exercicios/Atividade/obj/Debug/net8.0/Atividade.AssemblyInfo.cs
+/Users/leonardvale/Documents/Meus Documentos/Cursos - Exercicios/Atividade/obj/Debug/net8.0/Atividade.csproj.CoreCompileInputs.cache
+/Users/leonardvale/Documents/Meus Documentos/Cursos - Exercicios/Atividade/bin/Debug/net8.0/Atividade
+/Users/leonardvale/Documents/Meus Documentos/Cursos - Exercicios/Atividade/bin/Debug/net8.0/Atividade.deps.json
+/Users/leonardvale/Documents/Meus Documentos/Cursos - Exercicios/Atividade/bin/Debug/net8.0/Atividade.runtimeconfig.json
+/Users/leonardvale/Documents/Meus Documentos/Cursos - Exercicios/Atividade/bin/Debug/net8.0/Atividade.dll
+/Users/leonardvale/Documents/Meus Documentos/Cursos - Exercicios/Atividade/bin/Debug/net8.0/Atividade.pdb
+/Users/leonardvale/Documents/Meus Documentos/Cursos - Exercicios/Atividade/obj/Debug/net8.0/Atividade.dll
+/Users/leonardvale/Documents/Meus Documentos/Cursos - Exercicios/Atividade/obj/Debug/net8.0/refint/Atividade.dll
+/Users/leonardvale/Documents/Meus Documentos/Cursos - Exercicios/Atividade/obj/Debug/net8.0/Atividade.pdb
+/Users/leonardvale/Documents/Meus Documentos/Cursos - Exercicios/Atividade/obj/Debug/net8.0/Atividade.genruntimeconfig.cache
+/Users/leonardvale/Documents/Meus Documentos/Cursos - Exercicios/Atividade/obj/Debug/net8.0/ref/Atividade.dll
+/Users/leonardvale/Documents/Meus Documentos/Cursos - Exercicios/Calculo de IMC/bin/Debug/net8.0/Atividade
+/Users/leonardvale/Documents/Meus Documentos/Cursos - Exercicios/Calculo de IMC/bin/Debug/net8.0/Atividade.deps.json
+/Users/leonardvale/Documents/Meus Documentos/Cursos - Exercicios/Calculo de IMC/bin/Debug/net8.0/Atividade.runtimeconfig.json
+/Users/leonardvale/Documents/Meus Documentos/Cursos - Exercicios/Calculo de IMC/bin/Debug/net8.0/Atividade.dll
+/Users/leonardvale/Documents/Meus Documentos/Cursos - Exercicios/Calculo de IMC/bin/Debug/net8.0/Atividade.pdb
+/Users/leonardvale/Documents/Meus Documentos/Cursos - Exercicios/Calculo de IMC/obj/Debug/net8.0/Atividade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardvale/Documents/Meus Documentos/Cursos - Exercicios/Calculo de IMC/obj/Debug/net8.0/Atividade.AssemblyInfoInputs.cache
+/Users/leonardvale/Documents/Meus Documentos/Cursos - Exercicios/Calculo de IMC/obj/Debug/net8.0/Atividade.AssemblyInfo.cs
+/Users/leonardvale/Documents/Meus Documentos/Cursos - Exercicios/Calculo de IMC/obj/Debug/net8.0/Atividade.csproj.CoreCompileInputs.cache
+/Users/leonardvale/Documents/Meus Documentos/Cursos - Exercicios/Calculo de IMC/obj/Debug/net8.0/Atividade.dll
+/Users/leonardvale/Documents/Meus Documentos/Cursos - Exercicios/Calculo de IMC/obj/Debug/net8.0/refint/Atividade.dll
+/Users/leonardvale/Documents/Meus Documentos/Cursos - Exercicios/Calculo de IMC/obj/Debug/net8.0/Atividade.pdb
+/Users/leonardvale/Documents/Meus Documentos/Cursos - Exercicios/Calculo de IMC/obj/Debug/net8.0/Atividade.genruntimeconfig.cache
+/Users/leonardvale/Documents/Meus Documentos/Cursos - Exercicios/Calculo de IMC/obj/Debug/net8.0/ref/Atividade.dll
